@@ -3,7 +3,7 @@ import {List, Map} from 'immutable';
 
 describe('immutability', () => {
 
-    describe('a number', () => {
+    describe('A Number', () => {
 
         function increment(currentState) {
             return currentState + 1;
@@ -42,7 +42,7 @@ describe('immutability', () => {
 
     });
 
-    describe('a tree', () => {
+    describe('A Tree', () => {
 
         function addMovie(currentState, movie) {
             return currentState.set(
