@@ -22,6 +22,10 @@ One of the first libraries we're going to be using is Facebook's Immutable, whic
 npm install --save immutable
 npm install --save-dev chai-immutable
 ```
+[Redux](http://redux.js.org/) is a predictable state container for JavaScript apps
+```
+npm install --save redux
+```
 ### 2. Run the tests with the npm command
 ```
 npm run test
