@@ -26,6 +26,10 @@ npm install --save-dev chai-immutable
 ```
 npm install --save redux
 ```
+Setting Up a [Socket.io](http://socket.io/) Server
+```
+npm install --save socket.io
+```
 ### 2. Run the tests with the npm command
 ```
 npm run test
