@@ -40,5 +40,8 @@
   },
   "babel": {
     "presets": ["es2015"]
+  },
+  "engines": {
+      "node": ">=0.12"
   }
 }
