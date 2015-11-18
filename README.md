@@ -34,3 +34,7 @@ npm install --save socket.io
 ```
 npm run test
 ```
+### 3. Start server with the npm command
+```
+npm run start
+```
