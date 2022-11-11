@@ -34,7 +34,7 @@
     "babel-preset-es2015": "^6.24.1",
     "chai": "^4.3.4",
     "chai-immutable": "^2.1.0",
-    "mocha": "^8.4.0"
+    "mocha": "^10.1.0"
   },
   "dependencies": {
     "braces": ">=2.3.1",
